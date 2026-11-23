@@ -1,0 +1,31 @@
+TRAVERSER PRIVACY POLICY
+Effective November 23, 2026
+
+ABOUT THIS POLICY
+Traverser (Android package com.traverser.game) is an offline, single-player space game published by Apex Digital Software. For privacy questions and support, contact mincus.apps@gmail.com.
+
+INFORMATION USED ON YOUR DEVICE
+The game stores captain names you choose, saved progress, ships, inventory, mission history, in-game achievements and preferences in the app's private storage on your device. These records support saving and resuming your game. Captain names are local game labels; no online profile is created.
+
+NO GAME DATA COLLECTION OR SHARING
+Traverser does not send your saved games, captain names, gameplay activity, device identifiers or other personal data to us or to third parties. It has no account registration, advertising, analytics SDK, online chat, location tracking or in-app purchases. The Android app does not request Internet access, microphone, camera, contacts or location permissions. Optional vibration is used for local haptic feedback.
+
+RETENTION AND DELETION
+Game data remains on your device until you delete it. You can delete individual captains from the captain selection screen. To remove all local game data and preferences, use Android Settings > Apps > Traverser > Storage > Clear storage, or uninstall Traverser. These actions may permanently remove progress. The game provides no cloud save or server-side recovery, and disables Android's automatic app-data backup.
+
+GOOGLE PLAY AND ANDROID
+Google Play handles the paid download and any store refund, payment and download records under Google's own terms and privacy policy. Traverser does not receive your payment card details. Android and Google Play may separately process device or diagnostic information according to your platform settings and their policies. That platform processing is separate from data collected by the game, which has no telemetry service.
+
+WHEN YOU CONTACT SUPPORT
+If you choose to email mincus.apps@gmail.com, we receive your email address and whatever information or attachments you include. We use that correspondence to respond, troubleshoot and keep necessary support records. Our email service provider processes messages to deliver this support. Please avoid sending sensitive personal information. You can request deletion of support correspondence at the same address; records may be retained where needed to comply with applicable obligations or resolve an outstanding support matter.
+
+CHILDREN AND ONLINE FEATURES
+Traverser is intended for teens and adults, with regional suitability determined by its store content rating. It does not provide children's online profiles, messaging, advertising or a service that collects children's personal information. The content rating and intended audience are separate from the game's offline data practices.
+
+THIS POLICY WEBSITE
+The privacy page has no advertising, analytics scripts, contact form or embedded third-party content. Its hosting provider may process ordinary connection information, such as an IP address and request logs, to deliver and secure the page. Visiting the policy website is separate from playing Traverser offline.
+
+CHANGES AND CONTACT
+If the game's data practices change, this policy and its effective date will be updated. Contact mincus.apps@gmail.com with privacy questions or support requests.
+
+Online copy: https://mincusapps.github.io/traverser-privacy/
